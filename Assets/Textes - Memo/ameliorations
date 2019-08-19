@@ -1,0 +1,5 @@
+Ameliorations envisagees
+
+Caler les meshs filter flottants dans une bounding box qui correspond a une valeur unitaire
+Regler le bug apres suppression des hauteurs sauvees dans "indexCube[]"
+Fixer le bug quand il y a plusieurs mesh filter ou que le mesh filter est situe dans les enfants
