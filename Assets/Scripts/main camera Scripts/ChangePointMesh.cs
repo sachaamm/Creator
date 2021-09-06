@@ -17,7 +17,7 @@ public class ChangePointMesh : MonoBehaviour {
 	
 		MeshFilter mr, mr2;
 		mr = pointMesh.transform.GetComponent<MeshFilter> ();
-	
+	    
 
 		mr2 = o.transform.GetComponent<MeshFilter> ();
 		if (mr2 == null) {
